@@ -18,9 +18,9 @@
     <div>
         <h1 style="color:White">Neymar Fan Page!</h1>
     <ul class="nav nav-pills">
-      <li role="presentation"><a href="http://www.biography.com/people/neymar-21333405">About</a></li>
-      <li role="presentation"><a href="http://news.nike.com/news/neymar-jordan">Merchandise</a></li>
-      <li role="presentation"><a href="https://www.youtube.com/watch?v=2T1me4ROhlE">Videos</a></li>
+      <li role="presentation"><a href="Neymar.html">Neymar</a></li>
+      <li role="presentation"><a href="Bale.html">Bale</a></li>
+      <li role="presentation"><a href="zlatan.html">Zlatan</a></li>
     </ul>
     </div>
     </body>
